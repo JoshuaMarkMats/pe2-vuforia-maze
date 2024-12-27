@@ -1,0 +1,26 @@
+Airplane
+Boat
+Chair
+Dinosaur
+Elephant
+Fidget Spinner
+Gun
+Hammer
+I
+J
+K
+L
+M
+N
+O
+Pyramid
+Q
+Race Car
+Soldier
+TeddyBear
+U
+V
+Wooden Duck
+Xylophone
+Y
+Zebra
